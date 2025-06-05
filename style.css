@@ -7,7 +7,8 @@
 }
 
 body {
-  background-color: #e9fbe5; /* Light green page background */
+  background-color: #e9fbe5; /* or any background you want */
+  color: #000 !important;
 }
 
 .wrapper {
